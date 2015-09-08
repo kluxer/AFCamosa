@@ -1,0 +1,2 @@
+# AFCamosa
+acctivos fijos
